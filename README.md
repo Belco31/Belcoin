@@ -214,3 +214,4 @@ function burnFrom(address _from, uint256 _value) public returns (bool success) {
     Burn(_from, _value);
     return true;
 }
+}
